@@ -21,3 +21,5 @@ devices = [
 
 output = temp.render(devices=devices)
 print(output)
+
+#Test the template rendering
